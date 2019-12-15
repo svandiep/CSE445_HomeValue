@@ -11,7 +11,7 @@ namespace HomeValue
     // NOTE: In order to launch WCF Test Client for testing this service, please select Service1.svc or Service1.svc.cs at the Solution Explorer and start debugging.
     public class Service1 : IService1
     {
-        string ZillowKey = "X1-ZWz1gzof9ov7rf_2qbsp"; //Zillow API key
+        string ZillowKey = " "; //Zillow API key
 
         public int ValueByZip(string zip)
         {
