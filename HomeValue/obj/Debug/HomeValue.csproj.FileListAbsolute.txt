@@ -1,0 +1,11 @@
+C:\Users\Scott\source\repos\HomeValue\HomeValue\bin\HomeValue.dll.config
+C:\Users\Scott\source\repos\HomeValue\HomeValue\bin\HomeValue.dll
+C:\Users\Scott\source\repos\HomeValue\HomeValue\bin\HomeValue.pdb
+C:\Users\Scott\source\repos\HomeValue\HomeValue\bin\Newtonsoft.Json.dll
+C:\Users\Scott\source\repos\HomeValue\HomeValue\bin\Newtonsoft.Json.pdb
+C:\Users\Scott\source\repos\HomeValue\HomeValue\bin\Newtonsoft.Json.xml
+C:\Users\Scott\source\repos\HomeValue\HomeValue\obj\Debug\HomeValue.csprojAssemblyReference.cache
+C:\Users\Scott\source\repos\HomeValue\HomeValue\obj\Debug\HomeValue.csproj.CoreCompileInputs.cache
+C:\Users\Scott\source\repos\HomeValue\HomeValue\obj\Debug\HomeValue.csproj.CopyComplete
+C:\Users\Scott\source\repos\HomeValue\HomeValue\obj\Debug\HomeValue.dll
+C:\Users\Scott\source\repos\HomeValue\HomeValue\obj\Debug\HomeValue.pdb
